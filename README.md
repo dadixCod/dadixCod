@@ -26,7 +26,7 @@
 
 ### 🛠️ What I Do
 - 📱 Cross-platform apps with **Flutter**
-- 🗄️ Backend APIs with **Node.js / Express / Nest / MongoDB**
+- 🗄️ Backend APIs with **Spring Boot/ Node.js / Express / Nest / MongoDB**
 - 🎨 UI/UX with **modern & responsive design**
 - ⚡ Clean Architecture, SOLID, Testing & Best Practices  
 
@@ -52,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
